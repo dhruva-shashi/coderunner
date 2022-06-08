@@ -20,11 +20,13 @@ Run the installer executable file using the following command
 
 `$ ./installer`
 
+After performing the above steps, coderunner would have been installed on the system.
+
 ## How to Use
 
 - Create a file for input and name it `input.txt`
 - Create a file for output and name it `output.txt`
-- Write the code to a file named `codefile.cpp`
+- Write the code in a file named `codefile.cpp`
 - Run coderunner using the following command
 
 `$ coderunner`
