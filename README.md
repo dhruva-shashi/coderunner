@@ -27,6 +27,5 @@ After performing the above steps, coderunner would have been installed on the sy
 - Create a file for input and name it `input.txt`
 - Create a file for output and name it `output.txt`
 - Write the code in a file named `codefile.cpp`
-- Run coderunner using the following command
-
-`$ coderunner`
+- Run coderunner using the command `$ coderunner`
+- The input will be read from `input.txt` and the output will be written to `output.txt`
