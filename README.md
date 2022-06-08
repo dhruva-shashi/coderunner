@@ -10,18 +10,21 @@ To install coderunner, click [here](https://github.com/dhruva-shashi/coderunner/
 
 ### Give permissions
 
-- Give permission for the installer to install Coderunner by using the following command
+Give permission for the installer to install Coderunner by using the following command
 
-`chmod +x installer`
+`$ chmod +x installer`
 
-- Run the installer executable file
+### Run the executable file
 
-`./installer`
+Run the installer executable file using the following command
+
+`$ ./installer`
 
 ## How to Use
 
 - Create a file for input and name it `input.txt`
 - Create a file for output and name it `output.txt`
 - Write the code to a file named `codefile.cpp`
-- Run coderunner using the `$ coderunner` command
+- Run coderunner using the following command
 
+`$ coderunner`
